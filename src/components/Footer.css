@@ -1,0 +1,14 @@
+.footer {
+    bottom: 0 !important;
+    padding-top: 10px !important;
+    padding-bottom: 8px !important ;
+}
+
+.copyright {
+    text-align: right;
+}
+
+.socials {
+    text-align: right;
+    padding-right: 20px;
+}

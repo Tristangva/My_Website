@@ -3,7 +3,7 @@ import { Nav, Navbar, Container } from "react-bootstrap";
 import {BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import About from "./About";
 import Contact from "./Contact";
-import Main from "./main";
+import Main from "./Main";
 import Projects from "./Projects";
 import Resume from "./Resume";
 

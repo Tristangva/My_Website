@@ -2,7 +2,7 @@ import React from "react";
 import { Form, Input, TextArea, Button } from 'semantic-ui-react';
 import emailjs, {EmailJSResponseStatus} from 'emailjs-com';
 import Swal from 'sweetalert2';
-import "./Contact.css"
+import "./Contact.css";
 
 // Using https://javascript.plainenglish.io/how-to-build-a-contact-form-in-react-that-sends-emails-using-emailjs-70011d2563a3
 
@@ -58,13 +58,12 @@ const Contact = () => {
                     control={TextArea}
                     label='Message'
                     name='user_message'
-                    placeholder='message…'
+                    placeholder='Message…'
                     required
                     />
                 <Button type='submit' color='green'>Submit</Button>
             </Form>
         </div>
-
     )
 }
 
