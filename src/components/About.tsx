@@ -2,7 +2,6 @@ import React from 'react';
 import "./About.css";
 
 const About = () =>{
-
         return(
             <div className={"about"}>
                 <h2 className={"header"}>About</h2>
@@ -12,12 +11,11 @@ const About = () =>{
                     I intend to Freelance as a Fullstack web developer.
                     I have been taking courses on Udemy expanding on what I learned in school and to keep learning.
                 </p>
-                <p>
+                <p className={"paragraph"}>
                     Besides coding, I am a musician who plays guitar, bass, keyboard, and drums.
                 </p>
             </div>
         );
-
 }
 
 export default About;

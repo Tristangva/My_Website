@@ -3,12 +3,11 @@
 }
 
 .about {
-    color: black;
-    padding-left: 30px;
-    padding-right: 30px;
+
 }
 
-
 .paragraph {
-
+    max-width: 100%;
+    min-width: 30%;
+    margin: 10px 200px;
 }

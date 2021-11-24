@@ -1,3 +1,6 @@
 .main {
-    padding-left: 30px;
+    max-width: 100%;
+    min-width: 30%;
+    margin: 10px 200px;
+    padding-top: 40px;
 }

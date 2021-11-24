@@ -6,6 +6,7 @@ import Contact from "./Contact";
 import Main from "./Main";
 import Projects from "./Projects";
 import Resume from "./Resume";
+import './Nav_Bar.css';
 
 const Bootstrap_Nav = () => {
     return(

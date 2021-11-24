@@ -7,7 +7,7 @@ const Projects = () => {
             <h2>
                 Projects
             </h2>
-            <li>
+
                 <h4>Markdown and Code Editor</h4>
                 <a href={"https://github.com/Tristangva/jbook_udemy_project"}>
                     Link
@@ -17,8 +17,7 @@ const Projects = () => {
 
                     This project is a work in progress. Currently I am implementing a command line interface and will soon be creating the file saving system.
                 </p>
-            </li>
-            <li>
+
                 <h4>Search Engine</h4>
                 <a href={"https://github.com/Tristangva/Search-Engine"}>
                     Link
@@ -26,8 +25,6 @@ const Projects = () => {
                 <p>
                     For my Information Retrieval class, I had to make a search engine that tokenized, stemmed, indexed, and stored that data into text files. The project would read in a set of queries, and retrieve the documents most relevant using a vector space model. The query will be repaired in my own time to further improve it from it's current state. I also will add a React front end and a back end likely programmed with Ruby on Rails.
                 </p>
-            </li>
-
         </div>
     )
 }

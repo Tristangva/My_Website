@@ -4,7 +4,7 @@
     bottom:0;
     right:0;
     padding-top: 10px !important;
-    padding-bottom: 8px !important ;
+    background-color: #22282D;
 }
 
 .copyright {
@@ -13,5 +13,10 @@
 
 .socials {
     text-align: right;
-    padding-right: 20px;
+    padding-right: 0px;
+}
+
+.svg-copywrite {
+    padding-top: 10px;
+    font-size: 9px;
 }

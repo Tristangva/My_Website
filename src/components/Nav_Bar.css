@@ -1,0 +1,4 @@
+.nav-bar{
+    transition: transform 250ms;
+    display: inline-block;
+}
