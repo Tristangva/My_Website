@@ -1,6 +1,6 @@
 {
+  "homepage": "https://tristangva.github.io/My_Website",
   "name": "my_personal_website",
-  "homepage": "https://tristangva.github.io/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
