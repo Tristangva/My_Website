@@ -159,13 +159,6 @@ const Resume = () => {
                                 </i>
 
                             </Row>
-                            <Row>
-                                Software Testing
-
-                                Full-Stack Development
-
-                                Information Retrieval
-                            </Row>
                         </div>
                    </Tab>
                </Tabs>

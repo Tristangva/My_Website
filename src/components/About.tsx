@@ -12,7 +12,7 @@ const About = () =>{
                     I have been taking courses on Udemy expanding on what I learned in school and to keep learning.
                 </p>
                 <p className={"paragraph"}>
-                    Besides coding, I am a musician who plays guitar, bass, keyboard, and drums.
+                    Besides coding, I am a musician who plays guitar, bass, keyboard, and drums. I am working on making an album right now.
                 </p>
             </div>
         );
