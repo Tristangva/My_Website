@@ -2,7 +2,7 @@ This is the code for my personal website. It is currently version 1.0.
 
 I plan on making a mobile friendly version
 
-[The Website](https://tristanwhitedeveloper.com)
+[The Website](http://tristanwhitedeveloper.com)
 
 Inspirations:
 

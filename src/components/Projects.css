@@ -1,8 +1,10 @@
 .projects {
     max-width: 100%;
     min-width: 30%;
-    margin: 10px 200px;
+    margin: 10px 300px;
     padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
     background-color: #22282E;
     opacity: 0.9;
 }
