@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/tristanwhitedeveloper.com/static/css/main.6c11b61f.chunk.css",
-    "main.js": "/tristanwhitedeveloper.com/static/js/main.ce0b2e14.chunk.js",
-    "main.js.map": "/tristanwhitedeveloper.com/static/js/main.ce0b2e14.chunk.js.map",
-    "runtime-main.js": "/tristanwhitedeveloper.com/static/js/runtime-main.914bf017.js",
-    "runtime-main.js.map": "/tristanwhitedeveloper.com/static/js/runtime-main.914bf017.js.map",
-    "static/js/2.d875c5c2.chunk.js": "/tristanwhitedeveloper.com/static/js/2.d875c5c2.chunk.js",
-    "static/js/2.d875c5c2.chunk.js.map": "/tristanwhitedeveloper.com/static/js/2.d875c5c2.chunk.js.map",
-    "static/js/3.169d4e8a.chunk.js": "/tristanwhitedeveloper.com/static/js/3.169d4e8a.chunk.js",
-    "static/js/3.169d4e8a.chunk.js.map": "/tristanwhitedeveloper.com/static/js/3.169d4e8a.chunk.js.map",
-    "index.html": "/tristanwhitedeveloper.com/index.html",
-    "static/css/main.6c11b61f.chunk.css.map": "/tristanwhitedeveloper.com/static/css/main.6c11b61f.chunk.css.map",
-    "static/js/2.d875c5c2.chunk.js.LICENSE.txt": "/tristanwhitedeveloper.com/static/js/2.d875c5c2.chunk.js.LICENSE.txt",
-    "static/media/Profile_Pic.97d201b6.svg": "/tristanwhitedeveloper.com/static/media/Profile_Pic.97d201b6.svg"
+    "main.css": "/My_Website/static/css/main.6c11b61f.chunk.css",
+    "main.js": "/My_Website/static/js/main.ce0b2e14.chunk.js",
+    "main.js.map": "/My_Website/static/js/main.ce0b2e14.chunk.js.map",
+    "runtime-main.js": "/My_Website/static/js/runtime-main.ccff8997.js",
+    "runtime-main.js.map": "/My_Website/static/js/runtime-main.ccff8997.js.map",
+    "static/js/2.d875c5c2.chunk.js": "/My_Website/static/js/2.d875c5c2.chunk.js",
+    "static/js/2.d875c5c2.chunk.js.map": "/My_Website/static/js/2.d875c5c2.chunk.js.map",
+    "static/js/3.169d4e8a.chunk.js": "/My_Website/static/js/3.169d4e8a.chunk.js",
+    "static/js/3.169d4e8a.chunk.js.map": "/My_Website/static/js/3.169d4e8a.chunk.js.map",
+    "index.html": "/My_Website/index.html",
+    "static/css/main.6c11b61f.chunk.css.map": "/My_Website/static/css/main.6c11b61f.chunk.css.map",
+    "static/js/2.d875c5c2.chunk.js.LICENSE.txt": "/My_Website/static/js/2.d875c5c2.chunk.js.LICENSE.txt",
+    "static/media/Profile_Pic.97d201b6.svg": "/My_Website/static/media/Profile_Pic.97d201b6.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.914bf017.js",
+    "static/js/runtime-main.ccff8997.js",
     "static/js/2.d875c5c2.chunk.js",
     "static/css/main.6c11b61f.chunk.css",
     "static/js/main.ce0b2e14.chunk.js"
