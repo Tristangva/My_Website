@@ -5,9 +5,9 @@ import "./Main.css";
 
 const Main = () => {
     return (
-        <Container className="main">
-            <Row>
-                <Col className={'intro'}>
+        <Container className={"main"} fluid>
+            <Row >
+                <Col className={'intro'} >
                     <h2>Hello, I am Tristan White</h2>
                     <p>I am a newly graduated Computer Science major wishing to enter into the workforce as a Software Developer or Software Engineer</p>
                 </Col>

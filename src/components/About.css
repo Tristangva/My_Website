@@ -1,14 +1,14 @@
-.header {
-    text-align: center;
-}
-
 .about {
+    max-width: 100%;
+    min-width: 30%;
     background-color: #22282E;
     opacity: 0.9;
 }
 
+.header {
+    text-align: center;
+}
+
 .paragraph {
-    max-width: 100%;
-    min-width: 30%;
     margin: 10px 300px;
 }
