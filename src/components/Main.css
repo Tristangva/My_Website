@@ -3,6 +3,8 @@
     padding-bottom: 40px;
     background-color: #22282E;
     opacity: 0.9;
+    position: absolute;
+    top: 40px;
 }
 
 .container {
