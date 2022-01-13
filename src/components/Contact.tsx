@@ -1,6 +1,7 @@
 import React from "react";
 import { Form, Input, TextArea, Button } from 'semantic-ui-react';
 import emailjs, {EmailJSResponseStatus} from 'emailjs-com';
+import {Row, Col} from "react-bootstrap";
 import Swal from 'sweetalert2';
 import "./Contact.css";
 
@@ -31,7 +32,7 @@ const Contact = () => {
     }
 
     return(
-        <div className={"contact"}>
+        <Row className={"contact"}>
             <Form onSubmit={handleOnSubmit}>
                 <Form.Field
                     id='form-input-control-email'
@@ -63,7 +64,7 @@ const Contact = () => {
                     />
                 <Button type='submit' color='green'>Submit</Button>
             </Form>
-        </div>
+        </Row>
     )
 }
 

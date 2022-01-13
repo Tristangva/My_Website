@@ -10,10 +10,10 @@ const Footer = () => {
     return (
         <Container fluid className={"footer"}>
             <Row>
-                <Col className={"socials"}>
+                <Col sm={6} className={"socials"}>
                     <Socials />
                 </Col>
-                <Col className={"copyright"}>
+                <Col  className={"copyright"}>
                     <p>Copyright © {year} Tristan White</p>
                     <p className={"svg-copywrite"}>The background, circuit-primary is a derivative of
                         https://bgjar.com/circuit-primary by bgjar.com under CC by 4.0.
