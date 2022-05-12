@@ -50,6 +50,11 @@ const Resume = () => {
                    </Tab>
                     <Tab eventKey={"row-work"} title={"Experience"}>
                         <div className={"row-work"}>
+                            <h3>York Solutions - Barriers to Entry Technical Training Participant and Consultant</h3>
+                                <p>May 2022 - Present</p>
+                                <p>Developed by York Solutions, Barriers to Entry is a comprehensive,
+                                    intense program created to prepare people with the skills to move into entry level software development roles.
+                                    This interactive training covers Java, Full Stack, soft skills, methodologies, concepts, principles, & practices.</p>
                             <h3>Freelancer</h3>
                                 <p> Oct 2021 - Present</p>
 
