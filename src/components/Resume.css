@@ -38,9 +38,9 @@
     font-size: 190%;
     background-color: grey;
     color: white;
-    padding: 10px 11px 5px 11px;
-    width: 100px;
-    margin: 4px 0 4px 0;
+    padding: 10px;
+    width: 110px;
+    margin: 4px;
     border-radius: 16px;
     position: relative;
 }

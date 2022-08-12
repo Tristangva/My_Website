@@ -50,11 +50,14 @@ const Resume = () => {
                    </Tab>
                     <Tab eventKey={"row-work"} title={"Experience"}>
                         <div className={"row-work"}>
-                            <h3>York Solutions - Barriers to Entry Technical Training Participant and Consultant</h3>
-                                <p>May 2022 - Present</p>
-                                <p>Developed by York Solutions, Barriers to Entry is a comprehensive,
-                                    intense program created to prepare people with the skills to move into entry level software development roles.
-                                    This interactive training covers Java, Full Stack, soft skills, methodologies, concepts, principles, & practices.</p>
+                            <h3>York Solutions Associate Software Engineer Consultant at Optum</h3>
+                                <p>August 2022 - Present</p>
+                            <h3>2E Technical Training Consultant, York Solutions</h3>
+                                <p>May 2022 - August 2022</p>
+                                <p>
+                                    Developed by York Solutions, Barriers to Entry is a comprehensive apprenticeship program creating associate software engineers.
+                                    This immersive training covers full stack Java and agile methodologies.
+                                </p>
                             <h3>Freelancer</h3>
                                 <p> Oct 2021 - Present</p>
 
@@ -81,7 +84,7 @@ const Resume = () => {
                     </Tab>
                    <Tab eventKey={"skills"} title={"Skills"}>
                         <div className={"skills"}>
-                            <Row>
+                            <Row className="row justify-content-center">
                                 <i className="devicon-cplusplus-plain skill-icon" style={{ fontSize: "250%" }} >
                                     <p
                                         className="text-center"
@@ -160,6 +163,22 @@ const Resume = () => {
                                         style={{ fontSize: "40%", marginTop: "4px" }}
                                     >
                                         Linux
+                                    </p>
+                                </i>
+                                <i className="devicon-java-plain skill-icon" style={{ fontSize: "250%" }} >
+                                    <p
+                                        className="text-center"
+                                        style={{ fontSize: "40%", marginTop: "4px" }}
+                                    >
+                                        Java
+                                    </p>
+                                </i>
+                                <i className="devicon-spring-plain skill-icon" style={{ fontSize: "250%" }} >
+                                    <p
+                                        className="text-center"
+                                        style={{ fontSize: "40%", marginTop: "4px" }}
+                                    >
+                                        Spring Boot
                                     </p>
                                 </i>
 

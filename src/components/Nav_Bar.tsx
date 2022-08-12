@@ -15,7 +15,7 @@ const Bootstrap_Nav = () => {
                 <Navbar.Toggle aria-controls={ 'responsive-nav-bar'} />
                 <Navbar.Collapse id={ 'responsive-nav-bar'}>
                         <Nav>
-                            <Nav.Link href={'#/'}>Home</Nav.Link>
+                            <Nav.Link href={'/'}>Home</Nav.Link>
                             <Nav.Link href={'#/about'}> About </Nav.Link>
                             <Nav.Link href={'#/projects'}> Projects </Nav.Link>
                             <Nav.Link href={'#/resume'}> Resume </Nav.Link>
