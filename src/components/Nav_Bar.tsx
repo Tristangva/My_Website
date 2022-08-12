@@ -32,11 +32,11 @@ const Nav_Bar = () => {
         <div className={"nav-bar"}>
             <Bootstrap_Nav />
             <Routes>
-                <Route path= "/about" element={ <About />} />
+                <Route path="/about" element={ <About />} />
                 <Route path="/projects" element={ <Projects />} />
                 <Route path="/resume" element={ <Resume />} />
                 <Route path="/contact" element={ <Contact />} />
-                <Route path="/" element={<Main/>} />
+                <Route index element={<Main/>} />
             </Routes>
         </div>
     );

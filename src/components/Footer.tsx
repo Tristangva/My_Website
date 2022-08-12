@@ -15,7 +15,7 @@ const Footer = () => {
                 </Col>
                 <Col  className={"copyright"}>
                     <p>Copyright © {year} Tristan White</p>
-                    <p className={"svg-copywrite"}>The background, circuit-primary is a derivative of
+                    <p className={"svg-copyright"}>The background, circuit-primary is a derivative of
                         https://bgjar.com/circuit-primary by bgjar.com under CC by 4.0.
                         This is licenced under CC by 40.0 by Tristan White </p>
                 </Col>
