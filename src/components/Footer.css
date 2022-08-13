@@ -8,15 +8,23 @@
 }
 
 .copyright {
+    text-align: left;
+}
+
+.copyright-date {
+    font-size: 15px;
     text-align: right;
+    margin-left: 1px;
 }
 
 .socials {
-    text-align: right;
+    text-align: center;
     padding-right: 0;
+    margin-bottom: 0.5rem;
 }
 
 .svg-copyright {
-    padding-top: 10px;
+    margin-right: 1px;
     font-size: 9px;
+    text-align: right;
 }
